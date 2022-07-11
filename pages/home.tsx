@@ -10,7 +10,7 @@ const HomePage: NextPage = () => {
   console.log(hello);
   return (
     <>
-      <div className="bg-[url('/pilates.png')] bg-cover w-full h-full bg-no-repeat bg-right-top h-112 sm:h-176 lg:h-288">
+      <div className="bg-[url('/pilates.webp')] bg-cover w-full h-full bg-no-repeat bg-right-top h-112 sm:h-176 lg:h-288">
         <Header />
         <div className="container mx-auto px-6 flex relative lg:py-40">
           <div className="w-4/5 sm:w-2/3 lg:w-2/5 flex flex-col relative z-20">
